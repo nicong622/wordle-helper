@@ -1,0 +1,15 @@
+{
+  "name": "@nicong622/wordle",
+  "bin": {
+    "wordle": "./cli/wordle.js"
+  },
+  "version": "1.0.0",
+  "description": "wordle helper",
+  "main": "cli/wordle.js",
+  "keywords": [],
+  "author": "nicong622",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
