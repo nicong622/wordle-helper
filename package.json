@@ -3,11 +3,14 @@
   "bin": {
     "wordle": "./cli/wordle.js"
   },
+  "repository": {
+    "url": "https://github.com/nicong622/wordle-helper"
+  },
   "version": "1.0.0",
   "description": "wordle helper",
   "main": "cli/wordle.js",
-  "keywords": [],
-  "author": "nicong622",
+  "keywords": ["wordle", "cli"],
+  "author": "nicong622 <liangningcong@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "yargs": "^17.3.1"
